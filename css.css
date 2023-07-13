@@ -1,0 +1,54 @@
+.Wrapper{
+    font-family: sans-serif;
+    line-height: 1.5em;
+    
+}
+.container{
+    width: 100%;
+    max-width: 767px;
+    padding: 0 5%;
+    margin: auto;
+}
+.HoadonWrapper{
+    background-image: url(Background_SKL.png);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    text-align: center;
+}
+.HoadonWrapper .logo{
+    max-width: 150px;
+    padding: 2em 5% 50px 0;
+    margin-left: auto;
+}
+img{
+    max-width: 100%;
+}
+.noiDung--Hoadon{
+    color: white;
+    margin-top: 50px;
+}
+.noiDung--Hoadon .title{
+    text-transform: uppercase;
+}
+.noiDung--Hoadon .title .subheading{
+    font-size: 16px;
+    margin-bottom: 25px;
+}
+.noiDung--Hoadon .title .heading{
+    font-size: 20px;
+    margin-bottom: 25px;
+}
+.noiDung--Hoadon .content{
+    font-size: 16px;
+}
+.noiDung--Hoadon .content .mst{
+   margin-top: 15px;
+}
+.footer{
+    margin-top: 50px;
+    font-size: 16px;
+}
+.footer span{
+    display: block;
+}
